@@ -1,10 +1,35 @@
 # Hi, I'm Raj Mars Marni
 
-Welcome to my GitHub profile!
+Welcome to my GitHub profile. I am a software engineer, writer, and founder of [Arco](https://www.arco.dev). I am passionate about building products that help developers and creators do their best work.
 
-- I’m working on various projects.
-- I’m currently learning about different technologies.
-- Feel free to ask me about anything you find interesting.
+## About Me
+
+- 🌐 Creator of [Arco](https://www.arco.dev), a lightweight tool for managing your online presence.
+- 📝 Author of the [blog](https://www.rajmarni.com) where I share ideas about software, business, and personal growth.
+- 💡 I enjoy working at the intersection of technology and creativity.
+- 🛠️ I love building tools, automating workflows, and exploring new technologies.
+
+## Work
+
+My focus areas include:
+
+- Developer Tools
+- SaaS Products
+- System Design and Architecture
+- Content Publishing Platforms
+
+You can learn more about my projects on [rajmarni.com](https://www.rajmarni.com) or by exploring my repositories here on GitHub.
+
+## Writing
+
+I regularly write about:
+
+- Software engineering best practices
+- Startup lessons
+- Personal productivity
+- Open source
+
+You can read my latest posts on [my blog](https://www.rajmarni.com).
 
 ## GitHub Stats
 
@@ -14,9 +39,13 @@ Welcome to my GitHub profile!
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajmarni&layout=compact)
 
-## How to reach me
+## How to Reach Me
 
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- [Twitter](https://twitter.com/yourhandle)
+[![Website](https://img.shields.io/badge/Website-Visit-green?logo=google-chrome)](https://www.rajmarni.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/rajmarni)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?logo=twitter)](https://twitter.com/rajmarni)
+[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:hello@rajmarni.com)
 
-![Profile views](https://komarev.com/ghpvc/?username=rajmarni)
+## Thanks for Visiting!
+
+Feel free to explore my repositories, connect with me, or reach out if you’d like to collaborate.
